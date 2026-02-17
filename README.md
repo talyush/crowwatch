@@ -1,6 +1,6 @@
 > ⚠️ This project has evolved.  
 > The newer and actively maintained version is *Corvus_Corax*:  
-> 👉  https://github.com/talyush/corvus-corax
+> 👉  https://github.com/talyush/corvus_corax
 # crowwatch
 # CrowWatch
 
